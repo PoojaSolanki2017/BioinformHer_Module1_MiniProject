@@ -1,4 +1,4 @@
-# BioinfoHer_Module1_MiniProject
+# BioinformHer_Module1_MiniProject
 ## **PROJECT TITLE**
 Comprehensive Sequence Analysis of the Human TNF Gene
 
